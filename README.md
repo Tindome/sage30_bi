@@ -3,7 +3,9 @@ sage30_bi
 
 Ruby tool to exploit ODBC of Sage30 to build excel documents
 
-
+More info on [ 
+https://tindome.github.io/sage30_bi/
+]( https://tindome.github.io/sage30_bi/)
 
 
 
